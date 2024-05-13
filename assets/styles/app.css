@@ -1,3 +1,7 @@
 body {
-    background-color: skyblue;
+    
+    background-color: whitesmoke;
+}
+main{
+    min-height: 80vh;
 }
